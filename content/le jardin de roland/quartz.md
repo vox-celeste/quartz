@@ -10,4 +10,4 @@ There are so many SSGs out there, pretty much all of which can work as digital g
 
 See the [documentation](https://quartz.jzhao.xyz) for how to start your own Quartz instance. You will need a hosting provider. This site is currently being served via Github Pages. I may self-host in the future.
 
-NTS: `npm quartz sync` will push changes to this site.
+NTS: `npx quartz sync` will push changes to this site.
