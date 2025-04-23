@@ -1,10 +1,10 @@
 ---
-title: <% tp.file.title %>
+title: my digital garden
 draft: false
 tags:
   - pkm
 ---
- Inspirations for my approach to this concept:
+Inspirations for my approach to this concept:
 
 * Nicole van der Hoeven's “working notes” site [Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain) and her approach to [learning in public](https://notes.nicolevanderhoeven.com/Learning+in+public)
 * Mint’s [Taniyn Quest](https://taniyn.quest/Taniyn+Quest) – a very playful site that combines PKM with an old-school-blog vibe

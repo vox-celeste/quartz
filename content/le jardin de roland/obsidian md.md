@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Obsidian MD
 draft: false
 tags:
   - pkm

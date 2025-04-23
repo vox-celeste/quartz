@@ -1,10 +1,10 @@
 ---
-title: <% tp.file.title %>
+title: my vaults
 draft: false
 tags:
   - pkm
 ---
- 1. [[quartz]] vault / [[digital garden]] (what you’re reading right now!) – public-facing
+ 1. [[Quartz]] vault / [[digital garden]] (what you’re reading right now!) – public-facing
  2. longform writing vault – private, project-related only
  3. catchall personal vault – private, this one is a mess and needs extensive pruning
 

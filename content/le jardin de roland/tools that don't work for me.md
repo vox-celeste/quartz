@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: tools that don't work for me
 draft: false
 tags:
   - pkm
