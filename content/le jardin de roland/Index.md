@@ -1,11 +1,11 @@
 ---
 longform:
   format: scenes
-  title: lovesick monster's garden
+  title: le jardin de roland
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - introduction
+  scenes: []
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
+
