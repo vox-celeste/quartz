@@ -18,10 +18,10 @@ Inspirations for my approach to this concept:
 * No presumption of expertise over the topics written about here. That’s what my [blog](https://durandal.blog/) is for (which is why it’s mainly about gender and SFF—things on which I’m reasonably qualified to speak.)
 * A foundation upon which my other work is built. Nothing here needs to be impressive—aiming for basic knowledge synthesis. See [[workflow]] pipeline.
 * Placeholders, incomplete entries, and redlinks are OK. Low-friction enough that I can add a note even on a [[bad days|bad day]].
-* Aim for interlinking over use of tags and folders. Rhizomatic vs. hierarchical or taxonomical approach to knowledge organization.
+* Aim for interlinking over use of tags and folders. [[rhizomes|Rhizomatic]] vs. hierarchical or taxonomical approach to knowledge organization.
 * Less is more. Incompleteness-as-wholeness. Dynamic > definitive.
 * I can link to pages here in my newsletter, blog, etc to avoid repeating myself unnecessarily, and can update the pages here as frequently as I want without breaking links or making things out of date—in the long run it’s about saving myself work, not making more.
 * My brain works very quickly and also very slowly. Quick capture with ability to go back and expand on, nurture etc my ideas.
 * The digital garden is a place where the personal interacts with the global. My newsletter is the same thing, but with more of a diary-like orientation, and more fixed in time. 
 
-These goals are heavily informed by a disabled approach to computing and neurodivergence-related PKM. They are in opposition to what I somewhat-cheekily refer to as [[the dark side of PKM]].
+These goals are heavily informed by a [[disabled approach to computing]] and neurodivergence-related PKM. They are in opposition to what I somewhat-cheekily refer to as [[the dark side of PKM]].
