@@ -10,8 +10,11 @@ Inspirations for my approach to this concept:
 * Mint’s [Taniyn Quest](https://taniyn.quest/Taniyn+Quest) – a very playful site that combines PKM with an old-school-blog vibe
 * Cory Doctorow's [Memex Method](https://pluralistic.net/2021/05/09/the-memex-method/) – “when your commonplace book is a public database”
 * [Tomodashi design philosophy](https://tomodashi.com/philosophy)
+* Maggie Appleton’s [Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 
-## my digital garden ethos
+## my digital garden ethos: re-orienting to text
+
+[tumblr thread from ballsballsbowls and schafpudel](https://www.tumblr.com/schafpudel/781568873458778112): *If you want a user-funded indie socmed, you're going to need to accept that images and video are costly, and always have been; the true cost has just been hidden from you for the last two decades. […] Re-orient around text.*
 
 * Embrace vulnerability—learning in public is scary! [Embarrassment has good bones!](https://katielotz.substack.com/p/embarrassment-has-good-bones)
 * Write for the audience of my past and future selves; include enough context to get by, not much more. This ain’t Wikipedia.
@@ -22,6 +25,7 @@ Inspirations for my approach to this concept:
 * Less is more. Incompleteness-as-wholeness. Dynamic > definitive.
 * I can link to pages here in my newsletter, blog, etc to avoid repeating myself unnecessarily, and can update the pages here as frequently as I want without breaking links or making things out of date—in the long run it’s about saving myself work, not making more.
 * My brain works very quickly and also very slowly. Quick capture with ability to go back and expand on, nurture etc my ideas.
+* Simplicity; minimal media integration.
 * The digital garden is a place where the personal interacts with the global. My newsletter is the same thing, but with more of a diary-like orientation, and more fixed in time. 
 
 These goals are heavily informed by a [[disabled approach to computing]] and neurodivergence-related PKM. They are in opposition to what I somewhat-cheekily refer to as [[the dark side of PKM]].

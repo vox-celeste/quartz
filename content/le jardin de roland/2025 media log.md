@@ -1,5 +1,5 @@
 ---
-title: <%tp.file.title%>
+title: 
 draft: false
 tags:
   - example-tag
@@ -8,8 +8,9 @@ tags:
 ## anime
 
 [[Hunter x Hunter (2011)]]
+[[Vision of Escaflowne]]
 [[Mobile Suit Gundam GQuuuuuuX]]
-[[Mobile Suit Gundam: The Witch From Mercury]]
+[[Mobile Suit Gundam - The Witch From Mercury]]
 [[Mobile Suit Gundam 0079]]
 [[Mobile Suit Zeta Gundam]]
 [[Sarazanmai]]
@@ -19,7 +20,7 @@ tags:
 
 [[Earthsea]]
 [[The Disabled Tyrant's Beloved Pet Fish]]
-[[How to Survive as the Villain]]
+[[How to Survive as a Villain]]
 [[Priory of the Orange Tree]]
 [[Beowulf (Headley)]]
 [[Nordic Visions]]
@@ -27,14 +28,15 @@ tags:
 
 ## comics
 
+[[The Guy She Was Interested In Wasn't a Guy at All]]
 [[Her Tale of Shim Chong]]
 
 ## film
 
 [[Nosferatu (2024)]]
 [[Conclave]]
-[[Opus]]
-[[Black Bag]]
+[[Opus (2025)]]
+[[Black Bag (2025)]]
 
 ## games
 
