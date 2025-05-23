@@ -1,4 +1,8 @@
-
+---
+title: static site generators
+draft: false
+---
+ 
 [An Introduction to Static Site Generators | DigitalOcean](https://www.digitalocean.com/community/conceptual-articles/introduction-to-static-site-generators)
 
 static site → pages already generated before the page request rather than on demands

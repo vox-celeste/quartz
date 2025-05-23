@@ -1,8 +1,6 @@
 ---
 title: tools that don't work for me
 draft: false
-tags:
-  - pkm
 ---
 Tools I’ve tried and abandoned at some point on my PKM journey, for one reason or another:
  

@@ -1,8 +1,6 @@
 ---
 title: the dark side of PKM
 draft: true
-tags:
-  - pkm
 ---
  
 the masculinism of PKM

@@ -1,3 +1,8 @@
+---
+title: Astro
+draft: false
+---
+ 
 
 [Install Astro](https://docs.astro.build/en/install-and-setup/)
 

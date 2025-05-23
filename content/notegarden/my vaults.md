@@ -1,8 +1,6 @@
 ---
 title: my vaults
 draft: false
-tags:
-  - pkm
 ---
  1. [[Quartz]] vault / [[digital garden]] (what you’re reading right now!) – public-facing
  2. longform writing vault – private, project-related only

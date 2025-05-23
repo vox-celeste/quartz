@@ -1,3 +1,8 @@
+---
+title: epic fantasy
+draft: false
+---
+ 
 it’s all tolkien’s fault
 
 my beef with [[Priory of the Orange Tree]]

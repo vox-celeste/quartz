@@ -1,3 +1,8 @@
+---
+title: working within institutions
+draft: false
+---
+ 
 [Ruth Tillman on personal, and organizational, statements](https://ruthtillman.com/post/statements/):
 
 * role of professional organizations is to “establish norms and orientations for the field”

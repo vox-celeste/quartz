@@ -1,3 +1,8 @@
+---
+title: Personal knowledge management
+draft: false
+---
+ 
 Perhaps appropriately, a lot of these early notes are about the act of notetaking, as well as the tools, systems, and concepts I associate with it.
 
 [[digital garden]]

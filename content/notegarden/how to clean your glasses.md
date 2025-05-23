@@ -1,4 +1,8 @@
-
+---
+title: how to clean your glasses
+draft: false
+---
+ 
 [How to clean your glasses](https://bluelander.bearblog.dev/how-to-clean-your-glasses/)
 
 > 1. **Turn on the warm water and give the lenses a rinse.** This is to wash away any dust, eyelashes, dandruff or other debris that might scratch the lenses, and to make step 2 easier.

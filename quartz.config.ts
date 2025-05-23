@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "durandal.notes",
+    pageTitle: "drndl.nts",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

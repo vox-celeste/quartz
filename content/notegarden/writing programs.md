@@ -1,3 +1,8 @@
+---
+title: writing programs
+draft: false
+---
+ 
 
 Currently mainly [[Obsidian MD]] — see [[workflow]]
 

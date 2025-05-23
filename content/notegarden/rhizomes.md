@@ -1,8 +1,6 @@
 ---
 title: rhizomes
-draft: true
-tags:
-  - example-tag
+draft: false
 ---
  
 D&g

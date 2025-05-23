@@ -1,8 +1,6 @@
 ---
 title: workflow
 draft: true
-tags:
-  - pkm
 ---
 Problems to be solved for
 * my devices

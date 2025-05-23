@@ -1,9 +1,6 @@
 ---
 title: digital privacy
-draft: false
-tags: 
-- tech
-  
+draft: false  
 ---
  
 

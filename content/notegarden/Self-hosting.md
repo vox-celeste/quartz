@@ -1,4 +1,7 @@
-
+---
+title: Self-hosting
+draft: false
+---
 
 [Is anyone using a raspberry pi as a server to hosts your projects?](https://www.reddit.com/r/webdev/comments/159wvig/is_anyone_using_a_raspberry_pi_as_a_server_to/)
 

@@ -2,6 +2,7 @@
 [[digital garden]]
 [[digital privacy]]
 [[Permacomputing]]
+
 ## linux
 
 [[Linux Journey notes]]
@@ -10,7 +11,4 @@
 
 [[Obsidian MD]]
 [[Quartz]]
-
-
-***
 

@@ -1,3 +1,7 @@
+---
+title: Re-orient around text
+draft: false
+---
 
 [tumblr thread from ballsballsbowls and schafpudel](https://www.tumblr.com/schafpudel/781568873458778112): *If you want a user-funded indie socmed, you're going to need to accept that images and video are costly, and always have been; the true cost has just been hidden from you for the last two decades. […] Re-orient around text.*
 

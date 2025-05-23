@@ -1,10 +1,8 @@
 ---
 title: Quartz
 draft: false
-tags:
-  - pkm
 ---
-Quartz is a [[static site generator]] written by Jacky Zhao that builds a website out of an [[Obsidian MD]] database. It's particularly suited for [[digital garden|digital gardening]] and personal knowledge bases.
+Quartz is a [[static site generators]] written by Jacky Zhao that builds a website out of an [[Obsidian MD]] database. It's particularly suited for [[digital garden|digital gardening]] and personal knowledge bases.
 
 There are so many SSGs out there, pretty much all of which can work as digital gardens, but I chose Quartz (after [[tools that don't work for me|futzing around]] with many others…) because it’s designed to let you use Obsidian as a frictionless CMS, while offering more customizability (and less of a price tag) than Obsidian’s Publish offering. I really like being able to work with plain .md files within a powerful editor that I can customize and make visually appealing. I don’t like writing in ugly programs. Note-taking can be tedious; I need a carrot on the proverbial stick.
 

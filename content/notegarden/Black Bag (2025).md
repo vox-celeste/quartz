@@ -1,3 +1,8 @@
+---
+title: Black Bag (2025)
+draft: false
+---
+ 
 Fun little [[spy media|espionage thriller]]! The kind of dialogue-first adult cinematic drama they don't make much of anymore! Very enjoyable. 
 
 Also the first piece of popular media I've ever seen that deals with the war in Ukraine, which was interesting to see.

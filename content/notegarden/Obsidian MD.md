@@ -1,12 +1,7 @@
 ---
 title: Obsidian MD
 draft: false
-tags:
-  - pkm
 ---
-Obsidian is free-to-use personal knowledge management / notetaking software.
-
-I’ve been using it since 2022 but still feel like I’ve hardly scratched the surface of its functionality. 
 
 Two of the best things about Obsidian are
 

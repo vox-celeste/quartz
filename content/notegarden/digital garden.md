@@ -1,9 +1,8 @@
 ---
 title: my digital garden
 draft: false
-tags:
-  - pkm
 ---
+
 Inspirations for my approach to this concept:
 
 * Nicole van der Hoeven's “working notes” site [Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain) and her approach to [learning in public](https://notes.nicolevanderhoeven.com/Learning+in+public)
@@ -12,18 +11,26 @@ Inspirations for my approach to this concept:
 * [Tomodashi design philosophy](https://tomodashi.com/philosophy)
 * Maggie Appleton’s [Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 
-## my digital garden ethos
+## what am i trying to do here?
 
-* Embrace vulnerability—learning in public is scary! [Embarrassment has good bones!](https://katielotz.substack.com/p/embarrassment-has-good-bones)
-* Write for the audience of my past and future selves; include enough context to get by, not much more. This ain’t Wikipedia.
-* No presumption of expertise over the topics written about here. That’s what my [blog](https://durandal.blog/) is for (which is why it’s mainly about gender and SFF—things on which I’m reasonably qualified to speak.)
-* A foundation upon which my other work is built. Nothing here needs to be impressive—aiming for basic knowledge synthesis. See [[workflow]] pipeline.
-* Placeholders, incomplete entries, and redlinks are OK. Low-friction enough that I can add a note even on a [[bad days|bad day]].
-* Aim for interlinking over use of tags and folders. [[rhizomes|Rhizomatic]] vs. hierarchical or taxonomical approach to knowledge organization.
-* Less is more. Incompleteness-as-wholeness. Dynamic > definitive.
-* I can link to pages here in my newsletter, blog, etc to avoid repeating myself unnecessarily, and can update the pages here as frequently as I want without breaking links or making things out of date—in the long run it’s about saving myself work, not making more.
-* My brain works very quickly and also very slowly. Quick capture with ability to go back and expand on, nurture etc my ideas.
-* Simplicity; minimal media integration. [[Re-orient around text]].
-* The digital garden is a place where the personal interacts with the global. My newsletter is the same thing, but with more of a diary-like orientation, and more fixed in time. 
+* embrace vulnerability—learning in public is scary but [embarrassment has good bones](https://katielotz.substack.com/p/embarrassment-has-good-bones)
+* write for the audience of my past and future selves; include enough context to get by, not much more. only include what interests me & i think i’ll want to return to. antiencyclopedic.
+* no presumption of expertise over any topic
+* a foundation upon which my other work is built. aiming for basic knowledge synthesis. See [[workflow]] pipeline.
+* placeholders, incomplete entries, and redlinks are OK. low-friction enough that I can add a note even on a [[bad days|bad day]].
+* aim for interlinking over use of tags and folders. [[rhizomes|rhizomatic]] vs. hierarchical or taxonomical approach to knowledge organization. atomicity.
+* incompleteness-as-wholeness. dynamic > definitive notes. it’s about saving myself work, not making more.
+* recognition of how my brain works very quickly and also very slowly; quick capture with ability to go back and expand on, nurture etc my ideas.
+* simplicity; minimal media integration. [[re-orient around text]].
+* space where the personal interacts with the global. (my [[newsletters|newsletter]] is similar but with more of a diary-like orientation, and more fixed in time. 
 
-These goals are heavily informed by a [[disabled approach to computing]] and neurodivergence-related PKM. They are in opposition to what I somewhat-cheekily refer to as [[the dark side of PKM]].
+these goals are heavily informed by a [[disabled approach to computing]] and neurodivergence-supporting PKM (as opposed to [[the dark side of PKM]].)
+
+***
+
+from [obsidian.rocks](https://obsidian.rocks/creating-a-digital-garden-in-obsidian/)’s post on digital gardening: 
+
+> - Digital gardens are about _exploring_ and not _explaining_
+> - Digital gardens are link-based, not time based
+> - Digital gardens are constantly growing, changing, and evolving
+> - Digital gardens are imperfect and experimental

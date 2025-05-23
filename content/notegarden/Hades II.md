@@ -1,3 +1,8 @@
+---
+title: Hades II
+draft: false
+---
+ 
 this game is about fighting fascism
 
 this game is also about [[epic fantasy]] and its inherent conservative tendencies

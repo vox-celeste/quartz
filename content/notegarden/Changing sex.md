@@ -1,3 +1,7 @@
+---
+title: Changing sex
+draft: false
+--- 
 
 [On the Political Character of Queerness](https://splintermag.com/On-the-Political-Character-of-Queerness)
 
