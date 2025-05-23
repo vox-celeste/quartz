@@ -1,3 +1,10 @@
+---
+title: directory
+draft: false
+tags:
+  
+---
+ 
 Some places to start:
 
 [[2025 media log]]

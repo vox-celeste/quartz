@@ -1,3 +1,12 @@
+---
+title: Dishonored
+draft: false
+tags:
+  
+---
+ 
+
+
 *Shall we gather for whiskey and cigars tonight? Indeed, I believe so.*
 
 First played in 2014, replaying in 2025. A strange game to revisit in the post-COVID world, where speculative fiction plot points about plandemics have taken on a very different valence. (See also [[Utopia (2014)]].)
