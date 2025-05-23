@@ -1,7 +1,8 @@
 ---
 title: digital privacy
 draft: false
-tags: tech
+tags: 
+- tech
   
 ---
  
