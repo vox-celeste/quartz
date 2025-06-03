@@ -1,0 +1,6 @@
+KILL THE DISCOURSE GENERATOR IN YOUR HEAD
+## references
+
+> one of the things I find disheartening is something I've seen increasingly in students, where they are bringing the imagined criticisms of a bad faith reader to the desk with them when they're doing the first draft. Basically, they're already thinking, "What is that person on Twitter going to say about this when I publish it?" It is a preoccupation with others' perceptions. I try to encourage them as much as possible: be conscientious in your work. Be conscientious of your reader, of your potential readers, of all of your past selves, but do not write for the bad faith reader. You have to write for the reader of best faith, the reader who most needs your work, and you need to do your absolute best work for that reader. Exile the thoughts of the person who is looking to invalidate the art that you're making; you can't make art that way. Or it will be a brittle, sad version of what you would've done if you had imagined the loving reader who is grateful and interested in what it is that you actually are trying to communicate.
+
+⤷ Melissa Febos on [X](https://twitter.com/melissafebos/status/1569411154799374336)

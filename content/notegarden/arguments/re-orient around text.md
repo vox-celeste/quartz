@@ -10,6 +10,6 @@ draft: false
 * compared to conventional word processors, notably MS Word, markdown editors prioritize content rather than visual aesthetics
 * moving away from proprietary file formats to make human-readable documents the standard loosens corporate control over the way we write
 
-[[Permacomputing]], solarpunk, being judicious with the material resources required for digital infrastructure (especially at non-corporate scale)
+[[permacomputing]], solarpunk, being judicious with the material resources required for digital infrastructure (especially at non-corporate scale)
 
 Curious about gemini protocol but have yet to explore it

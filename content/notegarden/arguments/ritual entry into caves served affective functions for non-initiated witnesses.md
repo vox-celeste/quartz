@@ -1,0 +1,8 @@
+Cave entry in a religious context is really about the people on the outside of the cave.
+## references
+
+> The idea that some ritual activities at caves involved people disappearing from view into darkness is powerful. In most cases only one individual or a small select group could have entered caves at any one time. Thus the potentially public nature of early stages of some rituals, such as the entire community walking to a cave entrance, may have been juxtaposed by the secret activities that took place inside the cave involving just a few people. Witnessing this disappearance into darkness, and waiting for individuals to re-emerge, is likely to have been dramatic. The length of time spent inside a cave may have increased the feelings of anticipation, expectancy, anxiety, trepidation, fear or mystery experienced by those outside. People above ground were in the dark too. What was happening down there in the darkness? Who or what would be met in the cave? Why was the trip taking so long? Would s/he return? What would be the outcome?
+>
+> These were religious and spiritual excursions into darkness that must have transformed those waiting outside but especially the person who had entered the cave. Such journeys may have conferred her/him with greater power, status, reverence or respect if caves were perceived as places of the Otherworld where it was possible to commune with the spirit world. Emerging from darkness and returning to the world of the living may have been seen as akin to a rebirth: emerging with new knowledge or insights, emerging as a new and transformed person.
+
+⤷ _The Archeology of Caves in Ireland_, Marion Dowd

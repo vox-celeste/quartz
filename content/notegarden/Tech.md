@@ -1,7 +1,7 @@
 
 [[digital garden]]
 [[digital privacy]]
-[[Permacomputing]]
+[[permacomputing]]
 
 ## linux
 

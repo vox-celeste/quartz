@@ -13,12 +13,12 @@ Inspirations for my approach to this concept:
 
 ## what am i trying to do here?
 
-* embrace vulnerability—learning in public is scary but [embarrassment has good bones](https://katielotz.substack.com/p/embarrassment-has-good-bones)
+* embrace vulnerability—learning in public is scary but [doing mildly embarrassing things is good for you](https://katielotz.substack.com/p/embarrassment-has-good-bones)
 * write for the audience of my past and future selves; include enough context to get by, not much more. only include what interests me & i think i’ll want to return to. antiencyclopedic.
 * no presumption of expertise over any topic
 * a foundation upon which my other work is built. aiming for basic knowledge synthesis. See [[workflow]] pipeline.
 * placeholders, incomplete entries, and redlinks are OK. low-friction enough that I can add a note even on a [[bad days|bad day]].
-* aim for interlinking over use of tags and folders. [[rhizomes|rhizomatic]] vs. hierarchical or taxonomical approach to knowledge organization. atomicity.
+* aim for interlinking over use of tags and folders—but use them when appropriate. [[rhizomes|rhizomatic]] vs. hierarchical or taxonomical approach to knowledge organization. atomicity for ease of granular recall/synthesis… but also i find a giant folder of notes with no folders visually intimidating/messy and i’m less likely to use it, in which case… what’s the point?
 * incompleteness-as-wholeness. dynamic > definitive notes. it’s about saving myself work, not making more.
 * recognition of how my brain works very quickly and also very slowly; quick capture with ability to go back and expand on, nurture etc my ideas.
 * simplicity; minimal media integration. [[re-orient around text]].

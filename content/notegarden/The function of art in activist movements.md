@@ -1,6 +1,0 @@
----
-title: The function of art in activist movements
-draft: false
----
- 
-Not to win hearts and minds but to nourish and replenish the ones already fighting (note this doesn't mean art has to be "nice" or "hopeful" —in fact often the opposite)

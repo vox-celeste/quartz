@@ -2,7 +2,8 @@
 title: Permacomputing
 draft: false
 ---
- 
+* [[re-orient around text]]
+
 I’m not well-read on this topic but have a lot of interest in this area.
 
 from a [post by tobi, GoToSocial dev](https://gts.superseriousbusiness.org/@dumpsterqueer/statuses/01JQ1Q86D47Z0NPPYRG484T0BE):
