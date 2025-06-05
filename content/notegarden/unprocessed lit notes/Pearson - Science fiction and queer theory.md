@@ -3,7 +3,9 @@ title: Pearson - Science fiction and queer theory
 draft: false
 ---
 **Title:** “Science fiction and queer theory”
+
 **Author(s):** Wendy Pearson
+
 **Date:** 2003
 
 > For many people, however, sexuality--and particularly heterosexuality--can be envisioned only within the category of the ‘natural’. To these people, sexuality is quite specifically not an idea; it is the very reverse of the ideational--instinctive, sensate, animalistic. It as at once both ‘common sense’, as in the apparent logic of procreative sex, and unthinkable, since even apparently procreative sex calls into play emotions, positions, actions and desires whose potential for perversity, even if it is merely the perversity of pleasure, are too frightening to contemplate.

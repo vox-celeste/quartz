@@ -1,8 +1,16 @@
+---
+title: identifying your social change ecosystem
+draft: false
+tags:
+  - organizing
+  - community
+---
 Notes from workshop by Deepa Iyer and Adaku Utah from the Building Movement Project, Dec 2024
 
 what are your personal core values, beliefs, and convictions?
 
 values  
+
 - identify highest/boldest visions  
 - help us set goals  
 - anchor us during conflict and conclusion  

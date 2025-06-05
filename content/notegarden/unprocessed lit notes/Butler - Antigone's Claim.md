@@ -1,6 +1,10 @@
 ---
 title: Butler - Antigone's Claim
 draft: false
+tags:
+  - queer
+  - theory
+  - classics
 ---
 **Title:** Antigone's Claim: Kinship Between Life and Death
 

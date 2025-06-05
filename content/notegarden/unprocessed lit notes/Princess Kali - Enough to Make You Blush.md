@@ -1,5 +1,11 @@
+---
+title: Princess Kali - Enough to Make You Blush
+draft: false
+---
 **Title:** Enough to Make You Blush: Exploring Erotic Humiliation, Updated Edition
+
 **Author(s):** Princess Kali
+
 **Date:** 2022
 
 > this book is not an attempt to make erotic humiliation “make sense.” Because, no matter how experienced you are with this kind of play, the reality is that it doesn’t always “make sense.” In fact, it often makes _no_ sense. And that’s okay. Sexuality is extremely complex, and we barely have language to describe the more traditional sexual interests, let alone the psychologically entangled and unusual ones. But that doesn’t matter. (4)

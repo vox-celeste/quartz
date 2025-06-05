@@ -1,10 +1,10 @@
 ---
 title: Easton, Hardy - The New Topping Book
-draft: true
+draft: false
 ---
- 
-The New Topping Book
-Easton, Dossie; Hardy, Janet W.
+**Title:** The New Topping Book
+
+**Author(s):** Dossie Easton, Janet W. Hardy
 
 contrary to the opinions of the uninformed, consensual sadism, dominance and topping are primarily empathic activities.
 

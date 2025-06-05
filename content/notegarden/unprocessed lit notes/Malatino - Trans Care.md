@@ -1,6 +1,12 @@
-
+---
+title: Malatino - Trans Care
+draft: false
+---
+ 
 **Title:** Trans Care
-**Author(s):** Malatino, Hil
+
+**Author(s):** Hil Malatino
+
 **Date:** 2020
 
 ## decentralized care webs

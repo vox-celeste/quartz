@@ -1,12 +1,14 @@
 ---
 title: Bunning - Big Book of Tarot
-draft: true
+draft: false
+tags:
+  - tarot
 ---
- 
-Big Book of Tarot
-Joan Bunning
+**Title:** The Big Book of Tarot
 
-Projection is one reason why the tarot cards are valuable. Their intriguing pictures and patterns are effective in tapping the unconscious. This is the personal aspect of the tarot, but the cards also have a collective component. As humans, we all have certain common needs and experiences. The images on the tarot cards capture these universal moments and draw them out consistently.
+**Author(s):** Joan Bunning
+
+> Projection is one reason why the tarot cards are valuable. Their intriguing pictures and patterns are effective in tapping the unconscious. This is the personal aspect of the tarot, but the cards also have a collective component. As humans, we all have certain common needs and experiences. The images on the tarot cards capture these universal moments and draw them out consistently.
 
 *****
 
@@ -238,7 +240,3 @@ The Celtic Cross is divided into two sections: the cross on the left and the sta
 *****
 
 Position 10 is a projected outcome. It represents the most likely development if all the factors in a situation continue unimpeded on their current trajectory. This outcome is not a given. You can alter or reinforce this course by changing the conditions that exist in the moment.
-
---
-Reading books with ReadEra
-https://play.google.com/store/apps/details?id=org.readera&hl=en

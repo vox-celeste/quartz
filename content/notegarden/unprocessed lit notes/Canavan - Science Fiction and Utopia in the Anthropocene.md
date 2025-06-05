@@ -1,9 +1,11 @@
 ---
-title: Pearson - Science fiction and queer theory
+title: Canavan - Science Fiction and Utopia in the Anthropocene
 draft: false
 ---
 **Title:** “Science Fiction and Utopia in the Anthropocene”
+
 **Author(s):** Gerry Canavan
+
 **Date:** 2021
 
 > … contemporary thought is undergoing a cosmic separation … the flattening power of contemporary universalism is predicated on temporal rather than spatial separation from the scale of human life: rather than the view of the Earth from the standpoint of _deep space_, ours is a view of the present from the standpoint of _deep time_. This is ultimately the view from a radically post-human (and anti-human) future in which the human race has entirely disappeared--a view, that is, from the standpoint of human extinction itself. … the energizing potentiality of SF's “utopian impulse” might yet be recovered out of a world-historical system whose coordinates now seem just anti-utopian but out-and-out apocalyptic--an era in which the imminence of human extinction now seems a matter of scientific certainty, indeed, as an event which we have become so habituated towards that we imagine it as a catastrophe that has already happened.
