@@ -1,0 +1,2 @@
+- “scary hour" – block of time held for responding to emails and texts, making calls, doing other tasks that have been avoided for anxiety reasons. allowed to stop as soon as the timer goes off. (same idea could be implemented w/ smaller chunks of time as well.)
+- don't apologize or explain yourself over email. don't say you're sorry. e.g. “thank you for the reminder/thank you for your patience. the update will be available by friday morning. i realize the inconvenience of the delay, so please let me know how i may best assist you in the meantime.”
